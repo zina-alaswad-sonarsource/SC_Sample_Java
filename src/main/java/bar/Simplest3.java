@@ -1,4 +1,4 @@
-package foo;
+package bar;
 
 public class Simplest3 {
 	private Simplest2 s;

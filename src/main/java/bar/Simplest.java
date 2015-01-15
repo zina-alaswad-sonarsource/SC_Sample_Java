@@ -1,4 +1,4 @@
-package foo;
+package bar;
 
 /**
  * Simple class
