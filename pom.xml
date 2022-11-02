@@ -35,8 +35,6 @@
                             <name>listener</name>
                             <value>org.sonar.java.jacoco.JUnitListener</value>
                         </property>
-                        <sonar.organization>zina-alaswad-sonarsource</sonar.organization>
-                        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
                     </properties>
                 </configuration>
             </plugin>
